@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/espython/ds-algo-leetCode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/espython/ds-algo-leetCode/tree/master/0525-contiguous-array) |
 ## Design
 |  |
 | ------- |
@@ -13,4 +14,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/espython/ds-algo-leetCode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/espython/ds-algo-leetCode/tree/master/0525-contiguous-array) |
+## Hash Table
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/espython/ds-algo-leetCode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
