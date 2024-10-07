@@ -11,17 +11,8 @@ var topKFrequent = function(nums, k) {
 
 
     }
-    let arr = [...map.entries()].sort((a,b)=>b[1] - a[1])
-    console.log(arr)
-    let x = arr.slice(0,k)
-    console.log(x)
-    let sol =[]
-     for(let item of x){
-        
-        sol.push(item[0])
-     }
-
-     return sol
+   return [...map.keys()].sort((a,b)=>map.get(b) - map.get(a)).slice(0,k)
+    
 
     
 };
