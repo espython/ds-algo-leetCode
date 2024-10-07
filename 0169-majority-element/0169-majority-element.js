@@ -7,22 +7,15 @@ var majorityElement = function (nums) {
     const map = new Map()
     for (let i = 0; i < nums.length; i++) {
 
-        // console.log(parseInt(map.get(nums[i]) % 2))
-
         if (map.has(nums[i])) {
             map.set(nums[i], map.get(nums[i]) + 1)
         } else { map.set(nums[i], 1) }
-
-
-
-
-
     }
-    console.log(map)
+
     let current = 0
     let max = null
     for (let [key, value] of map) {
-        if (map.get(key) > current) {
+        if (value > current) {
             current = value
             max = key
         }
