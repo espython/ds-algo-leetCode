@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/espython/ds-algo-leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/espython/ds-algo-leetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/espython/ds-algo-leetCode/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/espython/ds-algo-leetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/espython/ds-algo-leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/espython/ds-algo-leetCode/tree/master/0525-contiguous-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/espython/ds-algo-leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/espython/ds-algo-leetCode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/espython/ds-algo-leetCode/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/espython/ds-algo-leetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
