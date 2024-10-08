@@ -3,7 +3,7 @@
  * @return {number}
  */
 var romanToInt = function (s) {
-    const objRoman = {
+    const sym = {
         I: 1,
         V: 5,
         X: 10,
@@ -13,9 +13,22 @@ var romanToInt = function (s) {
         M: 1000
     }
 
-    const integers = s.split('').map(c => objRoman[c]);
-  
-  return integers.reduce((acc, x, i) => x < integers[i+1] ? acc - x : acc + x, 0);
+  let result = 0;
+
+    for (let i = 0; i < s.length; i++) {
+        const cur = sym[s[i]];
+        const next = sym[s[i + 1]];
+
+        if (cur < next) {
+            result += next - cur;
+            i++;
+        } else {
+            result += cur;
+        }
+    }
+
+    return result;
+
 
 
 };
