@@ -73,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/espython/ds-algo-leetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/espython/ds-algo-leetCode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/espython/ds-algo-leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/espython/ds-algo-leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/espython/ds-algo-leetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/espython/ds-algo-leetCode/tree/master/0022-generate-parentheses) |
 | [0271-encode-and-decode-strings](https://github.com/espython/ds-algo-leetCode/tree/master/0271-encode-and-decode-strings) |
 ## Binary Search
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/espython/ds-algo-leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/espython/ds-algo-leetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
