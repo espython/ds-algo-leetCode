@@ -13,8 +13,9 @@ var rotate = function (nums, k) {
             j--
         }
     } // suppose  ----->---> 
-    reverse(0, nums.length - 1); // reverse   <--<------
-    reverse(0, k - 1) // reverse first part ---><----
-    reverse(k, nums.length - 1)// reverse second part --->----->
+    let start =0 , end = nums.length -1 , mid = k - 1
+    reverse(start, end); // reverse   <--<------
+    reverse(start , mid) // reverse first part ---><----
+    reverse(mid+1, end)// reverse second part --->----->
 
 };
