@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/espython/ds-algo-leetCode/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/espython/ds-algo-leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/espython/ds-algo-leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/espython/ds-algo-leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/espython/ds-algo-leetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/espython/ds-algo-leetCode/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/espython/ds-algo-leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/espython/ds-algo-leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/espython/ds-algo-leetCode/tree/master/0189-rotate-array) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/espython/ds-algo-leetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/espython/ds-algo-leetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/espython/ds-algo-leetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
