@@ -3,18 +3,24 @@
  * @return {boolean}
  */
 var canJump = function (nums) {
-    if (nums.length <= 1) return true
-    let i = 0
-    let max = 0
-    let target = nums.length -1
-    while (i < nums.length) {
-        console.log({ i })
-        let step = nums[i]
-        max = Math.max(max,i+nums[i])
-        if (max == i) return false
-        if (max >= target) return true
-        i++
+    let idx = 0;
+  let max = 0;
+  let target = nums.length - 1;
+
+  while(idx < nums.length) {
+    max = Math.max(max, idx + nums[idx]);
+    
+    if (max >= target) {
+      return true;
     }
-    return false
+    
+    if (max <= idx && nums[idx] === 0) {
+      return false;
+    }
+    
+    idx++;
+  }
+  
+  return false;
 
 };
