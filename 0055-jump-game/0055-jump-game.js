@@ -11,11 +11,9 @@ var canJump = function (nums) {
         console.log({ i })
         let step = nums[i]
         max = Math.max(max,i+nums[i])
-        console.log({ step })
         if (max == i) return false
         if (max >= target) return true
         i++
-        console.log({ i })
     }
     return false
 
