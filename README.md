@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/espython/ds-algo-leetCode/tree/master/0015-3sum) |
+| [0055-jump-game](https://github.com/espython/ds-algo-leetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/espython/ds-algo-leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/espython/ds-algo-leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/espython/ds-algo-leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/espython/ds-algo-leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/espython/ds-algo-leetCode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/espython/ds-algo-leetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/espython/ds-algo-leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
@@ -107,5 +109,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/espython/ds-algo-leetCode/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/espython/ds-algo-leetCode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
