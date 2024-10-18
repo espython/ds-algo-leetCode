@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/espython/ds-algo-leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/espython/ds-algo-leetCode/tree/master/0189-rotate-array) |
 | [0408-valid-word-abbreviation](https://github.com/espython/ds-algo-leetCode/tree/master/0408-valid-word-abbreviation) |
+| [0680-valid-palindrome-ii](https://github.com/espython/ds-algo-leetCode/tree/master/0680-valid-palindrome-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/espython/ds-algo-leetCode/tree/master/0022-generate-parentheses) |
 | [0271-encode-and-decode-strings](https://github.com/espython/ds-algo-leetCode/tree/master/0271-encode-and-decode-strings) |
 | [0408-valid-word-abbreviation](https://github.com/espython/ds-algo-leetCode/tree/master/0408-valid-word-abbreviation) |
+| [0680-valid-palindrome-ii](https://github.com/espython/ds-algo-leetCode/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/espython/ds-algo-leetCode/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/espython/ds-algo-leetCode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
