@@ -11,6 +11,6 @@ var canJump = function (nums) {
 
     }
     console.log({target})
-    return target == 0 ? true :false
+    return target == 0 
 
 };
