@@ -3,19 +3,17 @@
  * @return {number}
  */
 var maxSubArray = function(nums) {
-    let currMax = nums[0]
-    let globalMax = nums[0]
+   let currentSum = 0;
+   let maxSum = Number.NEGATIVE_INFINITY
 
-     for (let i = 1; i < nums.length; i++) {
-        if (currMax < 0) {
-            currMax = nums[i];
-        } else {
-            currMax += nums[i];
-        }
-        if (globalMax < currMax) {
-            globalMax = currMax;
-        }
-    }
-    return globalMax
+   for(let i=0;i < nums.length ; i++){
+    currentSum += nums[i]
+    maxSum = Math.max(maxSum,currentSum)
+
+    if(currentSum < 0) currentSum =0
+        
+
+   }
+   return maxSum
     
 };
