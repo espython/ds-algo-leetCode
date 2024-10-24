@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/espython/ds-algo-leetCode/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/espython/ds-algo-leetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/espython/ds-algo-leetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/espython/ds-algo-leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/espython/ds-algo-leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/espython/ds-algo-leetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/espython/ds-algo-leetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/espython/ds-algo-leetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/espython/ds-algo-leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/espython/ds-algo-leetCode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/espython/ds-algo-leetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/espython/ds-algo-leetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/espython/ds-algo-leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
