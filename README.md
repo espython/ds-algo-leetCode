@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/espython/ds-algo-leetCode/tree/master/0202-happy-number) |
 | [0408-valid-word-abbreviation](https://github.com/espython/ds-algo-leetCode/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/espython/ds-algo-leetCode/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/espython/ds-algo-leetCode/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/espython/ds-algo-leetCode/tree/master/0271-encode-and-decode-strings) |
 | [0408-valid-word-abbreviation](https://github.com/espython/ds-algo-leetCode/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/espython/ds-algo-leetCode/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/espython/ds-algo-leetCode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
