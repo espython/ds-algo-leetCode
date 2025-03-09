@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/espython/ds-algo-leetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/espython/ds-algo-leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/espython/ds-algo-leetCode/tree/master/0525-contiguous-array) |
+| [0605-can-place-flowers](https://github.com/espython/ds-algo-leetCode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/espython/ds-algo-leetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Design
 |  |
@@ -125,5 +126,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/espython/ds-algo-leetCode/tree/master/0055-jump-game) |
+| [0605-can-place-flowers](https://github.com/espython/ds-algo-leetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/espython/ds-algo-leetCode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
