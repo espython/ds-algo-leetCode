@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/espython/ds-algo-leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/espython/ds-algo-leetCode/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/espython/ds-algo-leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/espython/ds-algo-leetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/espython/ds-algo-leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/espython/ds-algo-leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/espython/ds-algo-leetCode/tree/master/0202-happy-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/espython/ds-algo-leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/espython/ds-algo-leetCode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/espython/ds-algo-leetCode/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/espython/ds-algo-leetCode/tree/master/0125-valid-palindrome) |
 | [0271-encode-and-decode-strings](https://github.com/espython/ds-algo-leetCode/tree/master/0271-encode-and-decode-strings) |
 | [0408-valid-word-abbreviation](https://github.com/espython/ds-algo-leetCode/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/espython/ds-algo-leetCode/tree/master/0680-valid-palindrome-ii) |
