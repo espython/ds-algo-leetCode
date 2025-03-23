@@ -3,21 +3,18 @@
  * @return {boolean}
  */
 var isValid = function(s) {
-     const hashMap = new Map(Object.entries({ "(": ")", "{": "}", "[": "]" }));
-  const stack = [];
-  for (let ch of s) {
-    if (hashMap.has(ch)) {
-      // ch is an opening bracket
-      stack.push(hashMap.get(ch));
-    } else if (stack.length > 0 && stack[stack.length - 1] === ch) {
-      // ch is a closing bracket and top of stack matches
-      stack.pop();
-    } else {
-      // ch is a closing bracket and top of the stack doesn't match
-      return false;
-    }
-  }
-  return stack.length === 0;
 
+    const map = new Map([["(",")"],["[","]"],["{","}"]])
+    const stack = []
+
+    for(let c of s ){
+        if(map.has(c)){
+            stack.push(map.get(c))
+        }else if(stack.length > 0 && stack[stack.length -1] == c){
+            stack.pop()
+        }else return false
+    }
+
+    return stack.length == 0
     
 };
