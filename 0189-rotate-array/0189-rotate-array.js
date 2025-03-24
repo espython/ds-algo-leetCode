@@ -4,20 +4,20 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var rotate = function (nums, k) {
-   k %= nums.length
+    k%= nums.length
 
-   function reverse(start,end){
-    while(start < end){
-        [nums[end],nums[start]] = [nums[start],nums[end]]
-        start++
-        end--
+    function reverse(start,end){
+        while(start < end){
+            [nums[start],nums[end]] = [nums[end],nums[start]]
+            start++
+            end--
+        }
+
     }
-   }
-    let start =0 , end = nums.length -1
-    reverse(start,end)
-    reverse(start,k-1)
-    reverse(k,end)
-
+        let start = 0 , end = nums.length -1
+        reverse(start,end)
+        reverse(start,k-1)
+        reverse(k,end)
    }
 
 
