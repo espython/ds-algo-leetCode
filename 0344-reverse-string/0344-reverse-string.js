@@ -9,6 +9,5 @@ var reverseString = function(s) {
         left++
         right--
     }
-console.log(s)
     return s
 };
