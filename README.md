@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/espython/ds-algo-leetCode/tree/master/0271-encode-and-decode-strings) |
 | [0303-range-sum-query-immutable](https://github.com/espython/ds-algo-leetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/espython/ds-algo-leetCode/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/espython/ds-algo-leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/espython/ds-algo-leetCode/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/espython/ds-algo-leetCode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/espython/ds-algo-leetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/espython/ds-algo-leetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/espython/ds-algo-leetCode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/espython/ds-algo-leetCode/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/espython/ds-algo-leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/espython/ds-algo-leetCode/tree/master/0525-contiguous-array) |
 ## Two Pointers
 |  |
