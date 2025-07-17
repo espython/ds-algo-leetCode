@@ -3,17 +3,22 @@
  * @return {number}
  */
 var lengthOfLongestSubstring = function(s) {
-     var max = 0, current_string = "", i, char, pos;
-
-  for (i = 0; i < s.length; i ++) {
-      char = s.charAt(i);
-      pos = current_string.indexOf(char);
-      if (pos !== -1) {
-          // cut "dv" to "v" when you see another "d"
-          current_string = current_string.substring(pos + 1);
-      }
-      current_string += char;
-      max = Math.max(max, current_string.length);
-  }
-  return max;
+    let l =0
+    let length = s.length
+    let set = new Set()
+    let longest = 0;
+    for(let r =0 ; r < length ; r++){
+        console.log({longest})
+        while(set.has(s[r])){
+        set.delete(s[l])
+        l++
+    }
+        set.add(s[r])
+        longest = Math.max(longest,r-l +1)
+    }
+    
+  return longest
+    
+    
+    
 };
