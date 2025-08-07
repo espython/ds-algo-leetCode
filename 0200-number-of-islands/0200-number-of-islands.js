@@ -29,7 +29,6 @@ var numIslands = function(grid) {
 
     for(let r = 0; r<rowsLength ; r++){
         for(let c = 0; c<colsLength; c++){
-            console.log(visit.has([r,c]))
             if(grid[r][c] == "1" && !visit.has(`${r},${c}`)){
                 bfs(r,c)
                 islands += 1
